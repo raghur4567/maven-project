@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Abu Sufiyan - Portfolio</title>
+    <title>raghu - Portfolio</title>
     <style>
         /* CSS styles as in original HTML */
         * {
@@ -332,7 +332,7 @@
 
     <section id="hero" class="section hero">
         <h1>Raghavendrareddy</h1>
-        <p>DevOps & Java Full Stack Developer</p>
+        <p>DevOps Engineer</p>
         <p class="tagline">I like minimal designs so, this is minimal without any distractions</p>
     </section>
 
