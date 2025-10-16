@@ -370,24 +370,6 @@
             <div class="skill-item">NGINX</div>
             <div class="skill-item">AWS</div>
             <div class="skill-item">Prometheus</div>
-            <div class="skill-item">Grafana</div>
-            <div class="skill-item">ELK Stack</div>
-            <div class="skill-item">Nagios</div>
-            <div class="skill-item">Maven</div>
-            <div class="skill-item">JUnit</div>
-            <div class="skill-item">Selenium</div>
-            <div class="skill-item">SonarQube</div>
-            <div class="skill-item">Postman</div>
-            <div class="skill-item">Swagger</div>
-            <div class="skill-item">Jira</div>
-            <div class="skill-item">Linux</div>
-            <div class="skill-item">Microservices</div>
-            <div class="skill-item">CI/CD</div>
-            <div class="skill-item">Agile</div>
-            <div class="skill-item">Scrum</div>
-            <div class="skill-item">RESTful APIs</div>
-            <div class="skill-item">Hibernate ORM</div>
-            <div class="skill-item">Software Debugging</div>
         </div>
     </section>
 
